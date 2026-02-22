@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hirob/Documents/Unreal Projects/Tech-Design/TechDesign/Content/TextSwitchPuzzle.uasset",
+				"C:/Users/hirob/Documents/Unreal Projects/Tech-Design/TechDesign/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/TW/QCS2JWUYY67VU3I46ZE0E9.uasset",
+				"C:/Users/hirob/Documents/Unreal Projects/Tech-Design/TechDesign/Content/Input/Actions/Switch1.uasset",
+				"C:/Users/hirob/Documents/Unreal Projects/Tech-Design/TechDesign/Content/Input/IMC_Default.uasset",
+				"C:/Users/hirob/Documents/Unreal Projects/Tech-Design/TechDesign/Content/Input/Actions/Switch5.uasset",
+				"C:/Users/hirob/Documents/Unreal Projects/Tech-Design/TechDesign/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/hirob/Documents/Unreal Projects/Tech-Design/TechDesign/Content/Input/Actions/Switch2.uasset",
+				"C:/Users/hirob/Documents/Unreal Projects/Tech-Design/TechDesign/Content/Input/Actions/Switch3.uasset",
+				"C:/Users/hirob/Documents/Unreal Projects/Tech-Design/TechDesign/Content/Input/Actions/Switch4.uasset"
+			]
+		}
+	]
+}
