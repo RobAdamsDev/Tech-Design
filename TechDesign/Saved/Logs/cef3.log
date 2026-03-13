@@ -1,4 +1,14 @@
-[1476:2428:0310/195510.873:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[1476:2428:0310/195510.987:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5076:6184:0310/195516.870:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-81AA048B9816F154F6F4579108A4FF36 will be ignored
-[1476:2428:0310/224801.445:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[27720:28228:0313/220644.161:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27720:28228:0313/220644.214:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10116:2192:0313/220647.561:ERROR:backend_impl.cc(989)] Critical error found -8
+[10116:2192:0313/220647.615:WARNING:storage_block-inl.h(138)] Failed data load.
+[29464:7492:0313/220649.021:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B5BC3E2EF11B8B48E8471CAE5069F75C will be ignored
+[27720:23336:0313/220649.411:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[27720:28228:0313/220649.585:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27720:28228:0313/220649.585:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27720:28228:0313/220649.585:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27720:28228:0313/220649.585:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27720:23336:0313/220649.590:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[29276:25272:0313/220855.643:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[29276:25272:0313/220855.643:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[27720:28228:0313/230716.760:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
