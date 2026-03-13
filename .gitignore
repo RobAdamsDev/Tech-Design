@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+TechDesign/Intermediate/CachedAssetRegistryDiscovery.bin
+*.log
+*.bin
+*.old
